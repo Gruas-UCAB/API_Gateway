@@ -33,3 +33,14 @@ C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyect
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\obj\Debug\net8.0\API_Gateway.pdb
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\obj\Debug\net8.0\API_Gateway.genruntimeconfig.cache
 C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\obj\Debug\net8.0\ref\API_Gateway.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\obj\Debug\net8.0\API_Gateway.sourcelink.json
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\Sprache.dll
+C:\Users\Admin\Documents\Universidad\9no Semestre\Desarrollo de Software\Proyecto\gruas-ucab-backend\Gateway\API_Gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
